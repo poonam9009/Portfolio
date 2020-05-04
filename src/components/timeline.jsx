@@ -38,7 +38,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Undergraduation at IIIT Sonepat<span>2017-2021</span></h2>
                         <p>I am pursuing my under-graduation studies in Computer Science. I have taken courses like DSA, OOPs, Computer Networks, Web-Data Management, Data Mining, OS, Java , Android 
-                          till now and have better understanding of these subjects.
+                          till now and have better understanding of these subjects. I have participated in many online coding contests on codeforces(max. specialist, 1461), codechef(max. 3*, 1760), hackerearth etc .
                           I have also been part of Drama CLub (AAHWAN) and performed in nukkad natak and skit on social issues since my first year of college.
                           I have also been part of Bhangra Crew (NBC-NIT's Bhagra Crew) and performed bhangra in my 2nd year of college.</p>
                       </div>

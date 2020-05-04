@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import authorImg from './images/about.JPEG'
+import cf1 from './images/cf1.ico'
+import cf2 from './images/cf2.ico'
 export default class Sidebar extends Component {
   render() {
     return (
@@ -36,6 +38,9 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.linkedin.com/in/poonam09/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/poonam9009" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://medium.com/@poonam_11720025" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://codeforces.com/profile/outofleague" target="_blank" rel="noopener noreferrer"><img src = {cf1} alt = "Codeforces"></img></a></li>
+                <li><a href="https://www.codechef.com/users/poonam0908_" target="_blank" rel="noopener noreferrer"><img src = {cf2} alt ="codechef"/></a></li>
+
               </ul>
             </nav>
             <div className="colorlib-footer">
