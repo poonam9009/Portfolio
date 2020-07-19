@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/poonam9009/portfolio.git/static/css/main.0a4d13ea.chunk.css",
+    "main.js": "/poonam9009/portfolio.git/static/js/main.7c10439b.chunk.js",
+    "main.js.map": "/poonam9009/portfolio.git/static/js/main.7c10439b.chunk.js.map",
+    "runtime-main.js": "/poonam9009/portfolio.git/static/js/runtime-main.999a97cb.js",
+    "runtime-main.js.map": "/poonam9009/portfolio.git/static/js/runtime-main.999a97cb.js.map",
+    "static/js/2.e02d3641.chunk.js": "/poonam9009/portfolio.git/static/js/2.e02d3641.chunk.js",
+    "static/js/2.e02d3641.chunk.js.map": "/poonam9009/portfolio.git/static/js/2.e02d3641.chunk.js.map",
+    "index.html": "/poonam9009/portfolio.git/index.html",
+    "precache-manifest.90895f6c71d36e9571822b8eaa6361dc.js": "/poonam9009/portfolio.git/precache-manifest.90895f6c71d36e9571822b8eaa6361dc.js",
+    "service-worker.js": "/poonam9009/portfolio.git/service-worker.js",
+    "static/css/main.0a4d13ea.chunk.css.map": "/poonam9009/portfolio.git/static/css/main.0a4d13ea.chunk.css.map",
+    "static/js/2.e02d3641.chunk.js.LICENSE.txt": "/poonam9009/portfolio.git/static/js/2.e02d3641.chunk.js.LICENSE.txt",
+    "static/media/about.JPEG": "/poonam9009/portfolio.git/static/media/about.a982db39.JPEG",
+    "static/media/bg.jpg": "/poonam9009/portfolio.git/static/media/bg.cacdde3c.jpg",
+    "static/media/bg111.jpg": "/poonam9009/portfolio.git/static/media/bg111.3f2ef55e.jpg",
+    "static/media/bg333.jpg": "/poonam9009/portfolio.git/static/media/bg333.8609d04d.jpg",
+    "static/media/cf1.ico": "/poonam9009/portfolio.git/static/media/cf1.fa9a2d24.ico",
+    "static/media/cf2.ico": "/poonam9009/portfolio.git/static/media/cf2.0de407f3.ico",
+    "static/media/so1.ico": "/poonam9009/portfolio.git/static/media/so1.4bee9815.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.999a97cb.js",
+    "static/js/2.e02d3641.chunk.js",
+    "static/css/main.0a4d13ea.chunk.css",
+    "static/js/main.7c10439b.chunk.js"
+  ]
+}
