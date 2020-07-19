@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/poonam9009/portfolio.git/static/css/main.0a4d13ea.chunk.css",
-    "main.js": "/poonam9009/portfolio.git/static/js/main.7c10439b.chunk.js",
-    "main.js.map": "/poonam9009/portfolio.git/static/js/main.7c10439b.chunk.js.map",
-    "runtime-main.js": "/poonam9009/portfolio.git/static/js/runtime-main.999a97cb.js",
-    "runtime-main.js.map": "/poonam9009/portfolio.git/static/js/runtime-main.999a97cb.js.map",
-    "static/js/2.e02d3641.chunk.js": "/poonam9009/portfolio.git/static/js/2.e02d3641.chunk.js",
-    "static/js/2.e02d3641.chunk.js.map": "/poonam9009/portfolio.git/static/js/2.e02d3641.chunk.js.map",
-    "index.html": "/poonam9009/portfolio.git/index.html",
-    "precache-manifest.90895f6c71d36e9571822b8eaa6361dc.js": "/poonam9009/portfolio.git/precache-manifest.90895f6c71d36e9571822b8eaa6361dc.js",
-    "service-worker.js": "/poonam9009/portfolio.git/service-worker.js",
-    "static/css/main.0a4d13ea.chunk.css.map": "/poonam9009/portfolio.git/static/css/main.0a4d13ea.chunk.css.map",
-    "static/js/2.e02d3641.chunk.js.LICENSE.txt": "/poonam9009/portfolio.git/static/js/2.e02d3641.chunk.js.LICENSE.txt",
-    "static/media/about.JPEG": "/poonam9009/portfolio.git/static/media/about.a982db39.JPEG",
-    "static/media/bg.jpg": "/poonam9009/portfolio.git/static/media/bg.cacdde3c.jpg",
-    "static/media/bg111.jpg": "/poonam9009/portfolio.git/static/media/bg111.3f2ef55e.jpg",
-    "static/media/bg333.jpg": "/poonam9009/portfolio.git/static/media/bg333.8609d04d.jpg",
-    "static/media/cf1.ico": "/poonam9009/portfolio.git/static/media/cf1.fa9a2d24.ico",
-    "static/media/cf2.ico": "/poonam9009/portfolio.git/static/media/cf2.0de407f3.ico",
-    "static/media/so1.ico": "/poonam9009/portfolio.git/static/media/so1.4bee9815.ico"
+    "main.css": "/portfolio/static/css/main.0a4d13ea.chunk.css",
+    "main.js": "/portfolio/static/js/main.d3ec5858.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d3ec5858.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.036b4921.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.036b4921.js.map",
+    "static/js/2.e02d3641.chunk.js": "/portfolio/static/js/2.e02d3641.chunk.js",
+    "static/js/2.e02d3641.chunk.js.map": "/portfolio/static/js/2.e02d3641.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f8a3648f9409cfaea55a3e81b81272d3.js": "/portfolio/precache-manifest.f8a3648f9409cfaea55a3e81b81272d3.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.0a4d13ea.chunk.css.map": "/portfolio/static/css/main.0a4d13ea.chunk.css.map",
+    "static/js/2.e02d3641.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e02d3641.chunk.js.LICENSE.txt",
+    "static/media/about.JPEG": "/portfolio/static/media/about.a982db39.JPEG",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.cacdde3c.jpg",
+    "static/media/bg111.jpg": "/portfolio/static/media/bg111.3f2ef55e.jpg",
+    "static/media/bg333.jpg": "/portfolio/static/media/bg333.8609d04d.jpg",
+    "static/media/cf1.ico": "/portfolio/static/media/cf1.fa9a2d24.ico",
+    "static/media/cf2.ico": "/portfolio/static/media/cf2.0de407f3.ico",
+    "static/media/so1.ico": "/portfolio/static/media/so1.4bee9815.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.999a97cb.js",
+    "static/js/runtime-main.036b4921.js",
     "static/js/2.e02d3641.chunk.js",
     "static/css/main.0a4d13ea.chunk.css",
-    "static/js/main.7c10439b.chunk.js"
+    "static/js/main.d3ec5858.chunk.js"
   ]
 }
